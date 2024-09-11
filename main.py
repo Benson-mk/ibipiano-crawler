@@ -4,7 +4,6 @@ import pandas as pd
 import os
 from concurrent.futures import ThreadPoolExecutor
 import subprocess
-import sys
 
 # Define the API URL and the query parameters
 url = 'https://www.ibipiano.com/_api/wix-ecommerce-storefront-web/api'
